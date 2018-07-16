@@ -1,0 +1,18 @@
+# coding: UTF-8
+
+機械学習のおすすめライブラリ
+
+TensorFlow
+→Google製
+
+Chainer
+→Preffered Networks製、非常に短いコードで記述可能
+
+Caffe
+→カリフォルニア大学のBVLCが開発、開発コミュニティが活発
+
+scikit-learn
+→Google製、機械学習全般を扱う、統計処理全般に強み
+
+etc..
+
